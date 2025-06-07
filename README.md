@@ -1,1 +1,0 @@
-Developed a simple Java-based console application that simulates ATMtransactions including balance inquiry, withdrawal, and deposit operations. The programmaintains account balance and handles user interactions with appropriate messages forinsuff icient funds or successful transactions
